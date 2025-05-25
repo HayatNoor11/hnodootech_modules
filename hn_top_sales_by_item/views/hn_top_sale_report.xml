@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<odoo>
+    <data>
+        <menuitem id="hn_top_sale_product_report_menu" parent="sale.menu_sale_report" name="Hn Top Selling Products" action="hn_top_sales_by_item.hn_top_sale_item_report_action"/>
+    </data>
+</odoo>
